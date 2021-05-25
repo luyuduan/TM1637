@@ -1,0 +1,15 @@
+"G:\IAR\arm\bin\armproc.dll" 
+
+"G:\IAR\arm\bin\armstlink2.dll" 
+
+"C:\Users\lyd\Desktop\TM1637\stm32f1_TM1637\Platform\IAR\Debug\Exe\template.out" 
+
+--plugin="G:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="G:\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="G:\IAR\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+

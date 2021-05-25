@@ -1,0 +1,13 @@
+"G:\IAR\arm\bin\armproc.dll" 
+
+"G:\IAR\arm\bin\armsim2.dll" 
+
+"C:\Users\lyd\Desktop\TM1637\stm32code\stm32f1_template\Platform\IAR\Debug\Exe\template.out" 
+
+--plugin="G:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="G:\IAR\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+
+
+
